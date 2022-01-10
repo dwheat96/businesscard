@@ -1,0 +1,15 @@
+.front{
+    max-height: 2in;
+    max-width: 3.5in;
+    margin: .1em 0;
+}
+
+
+
+.back{
+    transform: rotate(90deg);
+    max-width: 1.7in;
+    max-height: 3in;
+    justify-content: space-evenly;
+    margin: 0 auto;
+}
